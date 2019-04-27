@@ -6,4 +6,6 @@
 
 ## Data Exploration:
 
-## Data First Version:
+[Exploration Results](https://public.tableau.com/profile/bharati.malik#!/vizhome/Individual_Project_Visuals_1/SingleView)
+
+## First Version:
