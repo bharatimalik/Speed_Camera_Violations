@@ -1,3 +1,9 @@
-# Data Visualization: Exploratory & First version for Speed Camera Violations across the City of Chicago
+# Data Visualization using Tableau
 
-[Data Source](https://data.cityofchicago.org/Transportation/Speed-Camera-Violations/hhkd-xvj4)
+## Topic: Speed Camera Violations across the City of Chicago
+
+[Data Set](https://data.cityofchicago.org/Transportation/Speed-Camera-Violations/hhkd-xvj4)
+
+### Data Exploration
+
+### First Version
