@@ -39,11 +39,16 @@ In order to help Mayor of Chicago to make some informed decision based on the da
 
 * Finding 1:
 
-Below is the visual I identified as a part of data exploration phase. We can see that there is a decreasing trend on the total number of violations per month. Also, June- September months were when the average number of violations were more! 
+Below is the visual from my data exploration phase. We can see here that there is a decreasing trend on the total number of violations per month. Also, June- September months were when the average number of violations were more! 
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Phase1.JPG)
 
-But this visual gives the overall picture of the total and average number of violations. I've thus taken forward this information to a further granular level alongwith seasonal effects.
-As we can see, we have a decreasing trend of average number of violations with high and low spikes of average number of violations. We can also notice a seasonal trend on average number of violations per month. For ex. Summer has the highest number of average violations. This also makes an intuitive sense, as people tend to spend more time outside their homes during summer time than other seasons and more number of people on the road means higher chances of violations as well. This also means that average revenue generated for the violations will be more for the summer season than other seasons.
+But this visual gives the overall picture of the total and average number of violations and does not take individual years or months or days into account. Thus, I graphed the same information at further granular level alongwith seasonal effects for better understanding.
+
+![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Week.JPG)
+As we can see, we have a decreasing trend of average number of violations with high and low spikes of average number of violations. 
+
+![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Monthly.JPG)
+We can also notice a seasonal trend on average number of violations per month. For ex. Summer has the highest number of average violations. This also makes an intuitive sense, as people tend to spend more time outside their homes during summer time than other seasons and more number of people on the road means higher chances of violations as well. This also means that average revenue generated for the violations will be more for the summer season than other seasons.
 
 We also notice similar trend across seasons. The average number of violations 
 * Increases from Winter to Spring
@@ -56,7 +61,11 @@ Decrease in average number of violations would mean increased safety for the pub
 * Finding 2:
 
 I further explored camera id aspects for analysis. For this I calculated the average number of violations per unique camera and graphed it over time. I further added the seasonality effect to it. Again in summer, the average number of violations captured were higher than other seasons. And winter has the least average number of violations compared to other seasons. This is in line with our first finding.
-But if we use this visual as a stand alone, as the average violations captured during other seasons are very similar, it may also mean that the camera's have technical challenges which has reduced the overall violations captured? Thus with this visual, Mayor of Chicago could increase the technical checks of the camera especially during other seasons to make sure if the violations captured were indeed correct.
+But if we use this visual as a stand alone, as the average violations captured during other seasons are very similar there are 2 explanations that I can think of.
+* From data exploration, we know that the enforcement hours vary depending on the time and weekday. And as we have longer days in summer than winter, we can explain this variation of seasonality, or
+* The camera's have technical challenges which has reduced the overall violations captured? 
+Thus with this visual, Mayor of Chicago could increase the technical checks of the camera especially during other seasons to make sure if the violations captured were indeed correct.
+
  
 * Finding 3:
 
