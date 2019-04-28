@@ -1,7 +1,4 @@
 # Individual Project
-![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Phase1.JPG)
-![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Phase1_Legends.JPG)
-
 
 This is individual project as part of MSIS 2626: Dashboard, Scorecard, and Visualization class. The topic of interest is **City of Chicago’s Automated Speed Enforcement Program** and [here](https://data.cityofchicago.org/Transportation/Speed-Camera-Violations/hhkd-xvj4) is the data set used for this project.
 
@@ -33,6 +30,10 @@ Revenue from the program will be used for programs that enhance the safety of ch
 Five distinct visualizations using Tableau that provide an effective overview of the data can be found [here](https://public.tableau.com/profile/bharati.malik#!/vizhome/Individual_Project_Visuals_1/SingleView).
 
 ## First Version:
+
+![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Phase1.JPG)
+During data exploration phase, I noticed that there is a decreasing trend on the total number of violations per month. And June- September months were when the average number of violations were more!
+
 
 https://www.chicago.gov/city/en/depts/cdot/provdrs/automated_enforcement.html
 
