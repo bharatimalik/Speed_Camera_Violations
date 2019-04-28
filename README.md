@@ -14,3 +14,4 @@ https://www.chicago.gov/city/en/depts/cdot/provdrs/automated_enforcement.html
 
 https://www.chicago.gov/city/en/depts/cdot/supp_info/children_s_safetyzoneporgramautomaticspeedenforcement.html
 
+https://www.chicago.gov/city/en/depts/cdot/supp_info/children_s_safetyzoneporgramautomaticspeedenforcement/automated_speed_enforcementfrequentlyaskedquestions.html
