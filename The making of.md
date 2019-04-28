@@ -54,8 +54,10 @@ Decrease in average number of violations would mean increased safety for the pub
 
 * Finding 2:
 
-During my data exploration phase, I would further explore the camera id details for visualization. 
-
+I further explored camera id aspects for analysis. For this I calculated the average number of violations per unique camera and graphed it over time. I further added the seasonality effect to it. Again in summer, the average number of violations captured were higher than other seasons. And winter has the least average number of violations compared to other seasons. This is in line with our first finding.
+But if we use this visual as a stand alone, as the average violations captured during other seasons are very similar, it may also mean that the camera's have technical challenges which has reduced the overall violations captured? Thus with this visual, Mayor of Chicago could increase the technical checks of the camera especially during other seasons to make sure if the violations captured were indeed correct.
+ 
+* Finding 3:
 
 
 
