@@ -1,6 +1,6 @@
 # Individual Project
 
-This is individual project as part of MSIS 2626: Dashboard, Scorecard, and Visualization class. The topic of interest is **City of Chicago’s Automated Speed Enforcement Program** and [here](https://data.cityofchicago.org/Transportation/Speed-Camera-Violations/hhkd-xvj4) is the data set used for this project.
+This is individual project as part of MSIS 2626: Dashboard, Scorecard, and Visualization class. The topic of interest is **City of Chicago’s Automated Speed Enforcement Program**.
 
 There are 3 phases of this project:
 * Data Exploration: The objective is to develop five distinct visualizations using Tableau that provide an effective overview of the data.
@@ -25,6 +25,11 @@ The City ordinance establishing the Children’s Safety Zone program substantial
 * Fines for violations are $35 for vehicles traveling 6-10 mph over the posted speed limit while in a safety zone, and $100 for vehicles traveling 11 or more mph over the posted speed limit.  
 
 Revenue from the program will be used for programs that enhance the safety of children, including afterschool, anti-violence and jobs programs; crossing guards and police officers around schools; and infrastructure improvements, such as signs, crosswalk markings and other traffic safety improvements.
+
+### Data set information
+
+[Dataset Source](https://data.cityofchicago.org/Transportation/Speed-Camera-Violations/hhkd-xvj4)
+The data reflects violations that occurred from July 1, 2014 until present, minus the most recent 14 days. 
 
 ### Exploration Results
 Five distinct visualizations using Tableau that provide an effective overview of the data can be found [here](https://public.tableau.com/profile/bharati.malik#!/vizhome/Individual_Project_Visuals_1/SingleView).
