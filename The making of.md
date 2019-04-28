@@ -39,9 +39,10 @@ In order to help Mayor of Chicago to make some informed decision based on the da
 
 * Finding 1:
 
+Below is the visual I identified as a part of data exploration phase. We can see that there is a decreasing trend on the total number of violations per month. Also, June- September months were when the average number of violations were more! 
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Phase1.JPG)
-During first phase of data exploration, I noticed that there is a decreasing trend on the total number of violations per month. Also, June- September months were when the average number of violations were more! But this visual gives the overall picture of the total and average number of violations. For one of the findings, I represented the same information at a further granular level with seasonal effects.
 
+But this visual gives the overall picture of the total and average number of violations. I've thus taken forward this information to a further granular level alongwith seasonal effects.
 As we can see, we have a decreasing trend of average number of violations with high and low spikes of average number of violations. We can also notice a seasonal trend on average number of violations per month. For ex. Summer has the highest number of average violations. This also makes an intuitive sense, as people tend to spend more time outside their homes during summer time than other seasons and more number of people on the road means higher chances of violations as well. This also means that average revenue generated for the violations will be more for the summer season than other seasons.
 
 We also notice similar trend across seasons. The average number of violations 
