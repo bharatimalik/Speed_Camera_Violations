@@ -35,10 +35,12 @@ Five distinct visualizations using Tableau that provide an effective overview of
 
 ## First Version:
 
-![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Phase1.JPG)
-During first phase of data exploration, I noticed that there is a decreasing trend on the total number of violations per month. Also, June- September months were when the average number of violations were more! But this visual gives the overall picture of the total and average number of violations. 
+In order to help Mayor of Chicago to make some informed decision based on the data, following are my findings.
 
-In order to help Mayor of Chicago to make some informed decision on the data, for one of the findings, I represented the same information at a further granular level with seasonal effects.
+* Finding 1:
+
+![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Phase1.JPG)
+During first phase of data exploration, I noticed that there is a decreasing trend on the total number of violations per month. Also, June- September months were when the average number of violations were more! But this visual gives the overall picture of the total and average number of violations. For one of the findings, I represented the same information at a further granular level with seasonal effects.
 
 As we can see, we have a decreasing trend of average number of violations with high and low spikes of average number of violations. We can also notice a seasonal trend on average number of violations per month. For ex. Summer has the highest number of average violations. This also makes an intuitive sense, as people tend to spend more time outside their homes during summer time than other seasons and more number of people on the road means higher chances of violations as well. This also means that average revenue generated for the violations will be more for the summer season than other seasons.
 
@@ -50,9 +52,9 @@ We also notice similar trend across seasons. The average number of violations
 
 Decrease in average number of violations would mean increased safety for the public of Chicago. But this would also mean a decrease in the revenue generated. As the revenue generated is further used for programs targetted for betterment of society, the fines should be increased which will help in increased revenue. 
 
+* Finding 2:
 
-
-
+During my data exploration phase, I would further explore the camera id details for visualization. 
 
 
 
