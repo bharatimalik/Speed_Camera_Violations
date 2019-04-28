@@ -1,6 +1,6 @@
 # Individual Project
-![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Across_Years.JPG)
-![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Violations_Across_Month.JPG)
+![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Phase1.JPG)
+![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Phase1_Legends.JPG)
 
 
 This is individual project as part of MSIS 2626: Dashboard, Scorecard, and Visualization class. The topic of interest is **City of Chicago’s Automated Speed Enforcement Program** and [here](https://data.cityofchicago.org/Transportation/Speed-Camera-Violations/hhkd-xvj4) is the data set used for this project.
