@@ -40,21 +40,23 @@ Snapshot of the same is as follows:
 
 In order to help Mayor of Chicago to make some informed decision based on the data, [here]() is the first version of the analysis. Snapshots of the same are also attached for each finding below:
 
-* Finding 1: 
+### Finding 1: 
 
-From my data exploration phase we noticed a decreasing trend on the total number of violations per month. Also, June- September months were when the average number of violations were more! It gave me an overall picture of the total and average number of violations and did not take individual years or months or days into account. Thus, I graphed the same information at further granular level for better understanding.
+* From my data exploration phase we noticed a decreasing trend on the total number of violations per month. Also, June- September months were when the average number of violations were more! It gave me an overall picture of the total and average number of violations and did not take individual years or months or days into account. Thus, I graphed the same information at further granular level for better understanding.
 
-First, I took into account the violations per week. As we can see below, we have a decreasing trend of average number of violations with high and low spikes of average number of violations. 
+* First, I took into account the violations per week. As we can see below, we have a decreasing trend of average number of violations with high and low spikes of average number of violations. 
 
-Overall decrease in average number of violations would mean increased safety for the public of Chicago. But this would also mean a decrease in the revenue generated. As the revenue generated is further used for programs targetted for betterment of society, Mayor of Chicago could increase fines for overall revenue generation. 
+* Overall decrease in average number of violations would mean increased safety for the public of Chicago. But this would also mean a decrease in the revenue generated. As the revenue generated is further used for programs targetted for betterment of society, Mayor of Chicago could increase fines for overall revenue generation. 
 
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Week.JPG)
 
-Second, I took into account per day violations across the years. For this I created a calculated field to extract day from violation date. We see that the average violations happen over the weekend rather than weekday
+* Second, I took into account per day violations across the years. For this I created a calculated field to extract day from violation date using [this](https://community.tableau.com/thread/147716) as a reference. 
+
+* We can see that the average violations happen over the weekend rather than weekday. Mayor of Chicago could keep the same enforcement hours in weekend as on weekdays. 
 
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Day.JPG)
 
-* Finding 2:
+### Finding 2:
 
 I then created a calculated field called Seasons using an if-condition. This helped me to capture seasonality effect across months. 
 
@@ -68,7 +70,7 @@ We notice the same seasonality effect across months as follows:
 
 The seasonality effect seen here goes with our intuitive thinking that people, on an average, spend more time outside during summer compared to other seasons and thus the chances of violations happening during summer is higher compared to other seasons. Using this visual as a stand-alone, Mayor of Chicago could keep the same enforcement hours in summer as in other seasons. 
 
-* Finding 3:
+### Finding 3:
 
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Camera.JPG)
 
