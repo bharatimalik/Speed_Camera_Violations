@@ -89,4 +89,5 @@ In order to help Mayor of Chicago to make some informed decision based on the da
 ## Road-map
 
 * For revised version, I could combine the insights gained during exploration and first version together and use more advanced and interactive features of Tableau to represent the same information. 
-* I might also find new insights using further data wrangling.
+* I might also find new insights using further data wrangling. 
+* I could also utilize ward or zipcode information to see if something interesting comes up.
