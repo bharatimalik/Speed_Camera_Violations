@@ -10,9 +10,9 @@ fashion intended for the Mayor of Chicago.
 
 Reference: [Syllabus](https://github.com/mschermann/msis2629spring2019) & Professor comments.
 
-## Data Exploration:
+## Data Exploration
 
-### Background:
+### Background
 As per [this](https://www.chicago.gov/city/en/depts/cdot/supp_info/children_s_safetyzoneporgramautomaticspeedenforcement.html) article: Chicago experiences roughly 3,000 crashes annually between motor vehicles and pedestrians, about 800 of which involve children. The Children’s Safety Zone Program protects children and other pedestrians by reminding motorists to slow down and obey speed laws – especially in school and park zones. Safety zones are designated as a 1/8th of a mile boundary around any Chicago parks or schools.
 
 The City ordinance establishing the Children’s Safety Zone program substantially narrows the hours and locations of automated speed enforcement that are allowed under state law, and provides for the following:
@@ -36,44 +36,46 @@ Five distinct visualizations using Tableau that provide an effective overview of
 Snapshot of the same is as follows: 
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Phase1.JPG)
 
-## First Version:
+## First Version
 
 In order to help Mayor of Chicago to make some informed decision based on the data, [here]() is the first version of the analysis. Snapshots of the same are also attached for each finding below:
 
-### Finding 1: 
+### Finding 1
 
 * From my data exploration phase we noticed a decreasing trend on the total number of violations per month. Also, June- September months were when the average number of violations were more! It gave me an overall picture of the total and average number of violations and did not take individual years or months or days into account. Thus, I graphed the same information at further granular level for better understanding.
-
 * First, I took into account the violations per week. As we can see below, we have a decreasing trend of average number of violations with high and low spikes of average number of violations. 
-
-* Overall decrease in average number of violations would mean increased safety for the public of Chicago. But this would also mean a decrease in the revenue generated. As the revenue generated is further used for programs targetted for betterment of society, Mayor of Chicago could increase fines for overall revenue generation. 
+* Overall decrease in average number of violations would mean increased safety for the public of Chicago. But this would also mean a decrease in the revenue generated. 
+* Thus with this visual, Mayor of Chicago could increase fines for overall revenue generation which in turn are used for programs targetted for betterment of society. 
 
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Week.JPG)
 
 * Second, I took into account per day violations across the years. For this I created a calculated field to extract day from violation date using [this](https://community.tableau.com/thread/147716) as a reference. 
-
-* We can see that the average violations happen over the weekend rather than weekday. Mayor of Chicago could keep the same enforcement hours in weekend as on weekdays. 
+* We can see that the average violations happen over the weekend rather than weekday. 
+* Thus with this visual, Mayor of Chicago could keep the same enforcement hours in weekend as on weekdays. 
 
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Day.JPG)
 
-### Finding 2:
+### Finding 2
 
-I then created a calculated field called Seasons using an if-condition. This helped me to capture seasonality effect across months. 
+* I then created a calculated field called Seasons using an if-condition. This helped me to capture seasonality effect across months. 
 
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Monthly.JPG)
 
-We notice the same seasonality effect across months as follows:
-* Increases from Winter to Spring
-* Increases from Spring to Summer
-* Decreases from Summer to Fall
-* Decreases from Fall to Winter
+* We notice the same seasonality effect across months as follows:
+ * Increases from Winter to Spring
+ * Increases from Spring to Summer
+ * Decreases from Summer to Fall
+ * Decreases from Fall to Winter
 
-The seasonality effect seen here goes with our intuitive thinking that people, on an average, spend more time outside during summer compared to other seasons and thus the chances of violations happening during summer is higher compared to other seasons. Using this visual as a stand-alone, Mayor of Chicago could keep the same enforcement hours in summer as in other seasons. 
+* The seasonality effect seen here goes with our intuitive thinking that people, on an average, spend more time outside during summer compared to other seasons and thus the chances of violations happening during summer is higher compared to other seasons. 
+* Thus with this visual, Mayor of Chicago could keep the same enforcement hours in summer as in other seasons. 
 
-### Finding 3:
+### Finding 3
 
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Camera.JPG)
 
-I further incorporated camera id for further analysis of the data. I calculated the total number of violations per unique camera and graphed it over time with seasonal effects. The number of violations captured in summer were quite high compared to other seasons. And winter had the least number of violations compared to other seasons. From data exploration, we know that the enforcement hours are limited to certain hours during the weekday and certain cameras operate only during school hours. Does that mean that the number of violations captured per camera in summer are inflated due to technical glitch? 
-Thus with this visual, Mayor of Chicago could increase the technical checks of the cameras to make sure if the violations captured were indeed correct.
+* I further incorporated camera id for further analysis of the data. I calculated the total number of violations per unique camera and graphed it over time with seasonal effects. The number of violations captured in summer were quite high compared to other seasons. And winter had the least number of violations compared to other seasons. 
+* From data exploration, we know that the enforcement hours are limited to certain hours during the weekday and certain cameras operate only during school hours. Does that mean that the number of violations captured per camera in summer are inflated due to technical glitch? 
+* Thus with this visual, Mayor of Chicago could increase the technical checks of the cameras to make sure if the violations captured were indeed correct.
  
+## Conclusion
