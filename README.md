@@ -82,7 +82,7 @@ In order to help Mayor of Chicago to make some informed decision based on the da
 ## Conclusion
 
 * Data exploration and first version has made me comfortable with Tableau. It also gave me an understanding about the topic at hand.
-* I also found few other datasets such as [Crime dataset](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2), [Red light violations dataset](https://data.cityofchicago.org/Transportation/Red-Light-Camera-Violations/spqx-js37) and [Ward dataset](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Ward-Offices/htai-wnw4). But when I tried merging the datasets, there were lot of null values that were generated. It also meant losing some of the information from the original dataset based on the merging condition. 
+* I also explored few other datasets such as [Crime dataset](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2), [Red light violations dataset](https://data.cityofchicago.org/Transportation/Red-Light-Camera-Violations/spqx-js37) and [Ward dataset](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Ward-Offices/htai-wnw4) to create new insights by merging it with original dataset. But later on it made me realize that I may end up losing some of the information from the original dataset based on the merging condition. 
 * Thus, I didn't merge any new datasets found online in order to keep the original data integrity intact.
 
 ## Road-map
