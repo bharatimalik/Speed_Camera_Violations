@@ -39,14 +39,20 @@ In order to help Mayor of Chicago to make some informed decision based on the da
 
 * Finding 1: 
 
-Below is the visual from my data exploration phase. We can see here that there is a decreasing trend on the total number of violations per month. Also, June- September months were when the average number of violations were more! 
+From my data exploration phase we noticed a decreasing trend on the total number of violations per month. Also, June- September months were when the average number of violations were more! 
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Phase1.JPG)
 
 But this visual gives the overall picture of the total and average number of violations and does not take individual years or months or days into account. Thus, I graphed the same information at further granular level for better understanding.
 
+First, I took into account the violations per week. As we can see, we have a decreasing trend of average number of violations with high and low spikes of average number of violations. 
+
+Overall decrease in average number of violations would mean increased safety for the public of Chicago. But this would also mean a decrease in the revenue generated. As the revenue generated is further used for programs targetted for betterment of society, Mayor of Chicago could increase fines for overall revenue generation. 
+
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Week.JPG)
 
-As we can see, we have a decreasing trend of average number of violations with high and low spikes of average number of violations. Overall decrease in average number of violations would mean increased safety for the public of Chicago. But this would also mean a decrease in the revenue generated. As the revenue generated is further used for programs targetted for betterment of society, Mayor of Chicago could increase fines for overall revenue generation. 
+Second, I took into account per day violations across the years. For this I created a calculated field to extract day from violation date. We see that the average violations happen over the weekend rather than weekday
+
+![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Day.JPG)
 
 * Finding 2:
 
@@ -62,7 +68,8 @@ This visual tells us the seasonal effect and the trend of violations on an avera
 
 * Finding 3:
 
-For finding 3, I explored camera id aspects for analysis. For this I calculated the **total** number of violations per unique camera and graphed it over time. I further added the seasonality effect to it. The number of violations captured in summer were quite high compared to other seasons. And winter had the least number of violations compared to other seasons. From data exploration, we know that the enforcement hours are limited to certain hours during the weekday and certain cameras operate only during school hours. Is the number of violations captured per camera in summer inflated due to technical glitch?
+![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Camera.JPG)
 
+For finding 3, I explored camera id aspects for analysis. For this I calculated the **total** number of violations per unique camera and graphed it over time. I further added the seasonality effect to it. The number of violations captured in summer were quite high compared to other seasons. And winter had the least number of violations compared to other seasons. From data exploration, we know that the enforcement hours are limited to certain hours during the weekday and certain cameras operate only during school hours. Is the number of violations captured per camera in summer inflated due to technical glitch?
 Thus with this visual, Mayor of Chicago could increase the technical checks of the cameras to make sure if the violations captured were indeed correct.
  
