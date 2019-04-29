@@ -1,4 +1,4 @@
-# Individual Project
+# 'The Making of' Individual Project
 
 This is individual project as part of MSIS 2626: Dashboard, Scorecard, and Visualization class. The topic of interest is **City of Chicago’s Automated Speed Enforcement Program**.
 
@@ -13,6 +13,7 @@ Reference: [Syllabus](https://github.com/mschermann/msis2629spring2019) & Profes
 ## Data Exploration
 
 ### Background
+
 As per [this](https://www.chicago.gov/city/en/depts/cdot/supp_info/children_s_safetyzoneporgramautomaticspeedenforcement.html) article: Chicago experiences roughly 3,000 crashes annually between motor vehicles and pedestrians, about 800 of which involve children. The Children’s Safety Zone Program protects children and other pedestrians by reminding motorists to slow down and obey speed laws – especially in school and park zones. Safety zones are designated as a 1/8th of a mile boundary around any Chicago parks or schools.
 
 The City ordinance establishing the Children’s Safety Zone program substantially narrows the hours and locations of automated speed enforcement that are allowed under state law, and provides for the following:
@@ -78,4 +79,6 @@ In order to help Mayor of Chicago to make some informed decision based on the da
 * From data exploration, we know that the enforcement hours are limited to certain hours during the weekday and certain cameras operate only during school hours. Does that mean that the number of violations captured per camera in summer are inflated due to technical glitch? 
 * Thus with this visual, Mayor of Chicago could increase the technical checks of the cameras to make sure if the violations captured were indeed correct.
  
-## Conclusion
+## Road-map
+
+* Data exploration and first version has made me comfortable with Tableau. It also gave me an understanding about the topic at hand. For revised version, I could use advanced and interactive features of Tableau to represent the same information. There is also a possibility to find any new insights using data wrangling.
