@@ -81,4 +81,4 @@ In order to help Mayor of Chicago to make some informed decision based on the da
  
 ## Road-map
 
-* Data exploration and first version has made me comfortable with Tableau. It also gave me an understanding about the topic at hand. For revised version, I could use advanced and interactive features of Tableau to represent the same information. There is also a possibility to find any new insights using data wrangling.
+* Data exploration and first version has made me comfortable with Tableau. It also gave me an understanding about the topic at hand. For revised version, I could use more advanced and interactive features of Tableau to represent the same information. I may also be able to find any new insights using further data wrangling.
