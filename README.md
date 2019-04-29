@@ -51,7 +51,7 @@ In order to help Mayor of Chicago to make some informed decision based on the da
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Week.JPG)
 
 * Second, I took into account per day violations across the years. For this I created a calculated field to extract day from violation date using [this](https://community.tableau.com/thread/147716) as a reference. 
-* We can see that the average violations happen over the weekend rather than weekday. We know that enforcement hours around parks are on all 7 days and such a high number of violations captured over the weekend may mean that people are not aware about the enforcement hours near the park area during the weekend. 
+* We can see that the average violations happen over the weekend rather than weekday. We know that enforcement hours around parks are on all 7 days and such high number of violations captured over the weekend may mean that people are not aware about the enforcement hours near the park area during the weekend. 
 * Thus, with this visual, Mayor of Chicago could raise more awareness about the the program. 
 
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Day.JPG)
@@ -67,9 +67,7 @@ In order to help Mayor of Chicago to make some informed decision based on the da
   * Increases from Spring to Summer
   * Decreases from Summer to Fall
   * Decreases from Fall to Winter
-* The seasonality effect seen here goes with our intuitive thinking that people, on an average, spend more time outside during summer compared to other seasons and thus the chances of violations happening during summer is higher compared to other seasons. 
-* Thus, with this visual, Mayor of Chicago could keep the same enforcement hours in summer as in other seasons. 
-* But from our data exploration, we also know that the enforcement hours are limited to certain hours during the weekday and certain cameras operate only during school hours. Does that mean there is a possibility that the number of violations captured in summer are inflated due to some technical glitch in the camera?
+* The seasonality effect seen here goes with our intuitive thinking that people, on an average, spend more time outside (in the park) during summer compared to other seasons and thus the chances of violations happening during summer is higher compared to other seasons.  * From our data exploration, we also know that the enforcement hours are limited to certain hours during the weekday and only park cameras work during summer. If people are well aware of this fact, then does that mean there is a possibility that the number of violations captured in summer are inflated due to some technical glitch in the camera?
 
 ### Visualization 3
 
