@@ -58,7 +58,7 @@ In order to help Mayor of Chicago to make some informed decision based on the da
 
 ### Visualization 2
 
-* I then created a calculated field called Seasons using an if-condition. This helped me to capture seasonality effect across months. 
+* I then created a calculated field called 'Seasons' using an if-condition. This helped me to capture seasonality effect across months. 
 
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Monthly.JPG)
 
