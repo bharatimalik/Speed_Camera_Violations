@@ -39,7 +39,7 @@ Snapshot of the same is as follows:
 
 ## First Version
 
-In order to help Mayor of Chicago to make some informed decision based on the data, [here]() is the first version of the analysis. Snapshots of the same are also attached for each finding below:
+In order to help Mayor of Chicago to make some informed decision based on the data, [here](https://public.tableau.com/profile/bharati.malik#!/vizhome/Individual_Project_Visuals_2/FindingsforMayorofChicago) is the first version of the analysis. Snapshots of the same are also attached for each finding below:
 
 ### Finding 1
 
