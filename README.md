@@ -63,10 +63,10 @@ In order to help Mayor of Chicago to make some informed decision based on the da
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Monthly.JPG)
 
 * We notice the same seasonality effect across months as follows:
- * Increases from Winter to Spring
- * Increases from Spring to Summer
- * Decreases from Summer to Fall
- * Decreases from Fall to Winter
+  * Increases from Winter to Spring
+  * Increases from Spring to Summer
+  * Decreases from Summer to Fall
+  * Decreases from Fall to Winter
 
 * The seasonality effect seen here goes with our intuitive thinking that people, on an average, spend more time outside during summer compared to other seasons and thus the chances of violations happening during summer is higher compared to other seasons. 
 * Thus with this visual, Mayor of Chicago could keep the same enforcement hours in summer as in other seasons. 
