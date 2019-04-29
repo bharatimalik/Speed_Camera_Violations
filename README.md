@@ -67,7 +67,7 @@ In order to help Mayor of Chicago to make some informed decision based on the da
   * Increases from Spring to Summer
   * Decreases from Summer to Fall
   * Decreases from Fall to Winter
-* With this visual, Mayor of Chicago could invest more on signs and crosswalk markings etc. at multiple locations to ensure drivers are always aware.
+* With this visual, Mayor of Chicago could invest more on signs and crosswalk markings etc. at multiple locations in summer time to ensure drivers are always aware.
 * The seasonality effect seen here goes with our intuitive thinking that people, on an average, spend more time outside (in the park) during summer compared to other seasons and thus the chances of violations happening during summer is higher compared to other seasons.
 * From our data exploration, we also know that the enforcement hours are limited to certain hours during the weekday and only park cameras work during summer. If people are well aware of this fact, then does that mean there is a possibility that the number of violations captured in summer are inflated due to some technical glitch in the camera?
 
