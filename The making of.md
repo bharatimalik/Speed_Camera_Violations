@@ -31,7 +31,10 @@ Revenue from the program will be used for programs that enhance the safety of ch
 [Dataset Source](https://data.cityofchicago.org/Transportation/Speed-Camera-Violations/hhkd-xvj4): The data reflects violations that occurred from July 1, 2014 until present, minus the most recent 14 days. 
 
 ### Exploration Results
-Five distinct visualizations using Tableau that provide an effective overview of the data can be found [here](https://public.tableau.com/profile/bharati.malik#!/vizhome/Individual_Project_Visuals_1/SingleView).
+Five distinct visualizations using Tableau that provide an effective overview of the data:
+![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Phase1.JPG)
+
+ The same can also be found [here](https://public.tableau.com/profile/bharati.malik#!/vizhome/Individual_Project_Visuals_1/SingleView).
 
 ## First Version:
 
@@ -40,7 +43,7 @@ In order to help Mayor of Chicago to make some informed decision based on the da
 * Finding 1: 
 
 From my data exploration phase we noticed a decreasing trend on the total number of violations per month. Also, June- September months were when the average number of violations were more! 
-![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Phase1.JPG)
+
 
 But this visual gives the overall picture of the total and average number of violations and does not take individual years or months or days into account. Thus, I graphed the same information at further granular level for better understanding.
 
