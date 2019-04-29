@@ -46,7 +46,7 @@ In order to help Mayor of Chicago to make some informed decision based on the da
 * From data exploration phase, I noticed a decreasing trend on the total number of violations per month. Also, June- September months were when the average number of violations were more! It gave me an overall picture of the total and average number of violations but did not take individual years, months or days into account. Thus, I graphed the same information at further granular level for better understanding.
 * First, I took into account the violations per week. As we can see below, we have a decreasing trend of average number of violations with high and low spikes of average number of violations. 
 * Overall decrease in average number of violations would mean increased safety for the public of Chicago. But this would also mean a decrease in the revenue generated. 
-* Thus with this visual, Mayor of Chicago could increase fines for overall revenue generation which in turn are used for programs targetted for betterment of society. 
+* Thus with this visual, Mayor of Chicago could increase fines for overall revenue generation which in turn could be used for programs targetted for betterment of society. 
 
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Week.JPG)
 
