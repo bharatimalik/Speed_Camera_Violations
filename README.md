@@ -51,8 +51,8 @@ In order to help Mayor of Chicago to make some informed decision based on the da
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Week.JPG)
 
 * Second, I took into account per day violations across the years. For this I created a calculated field to extract day from violation date using [this](https://community.tableau.com/thread/147716) as a reference. 
-* We can see that the average violations happen over the weekend rather than weekday. 
-* Thus, with this visual, Mayor of Chicago could keep the same enforcement hours in weekend as on weekdays. 
+* We can see that the average violations happen over the weekend rather than weekday. We know that enforcement hours around parks are on all 7 days and such a high number of violations captured over the weekend may mean that people are not aware about the enforcement hours near the park area during the weekend. 
+* Thus, with this visual, Mayor of Chicago could raise more awareness about the the program. 
 
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Day.JPG)
 
