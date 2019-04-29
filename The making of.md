@@ -56,20 +56,22 @@ Second, I took into account per day violations across the years. For this I crea
 
 * Finding 2:
 
+I then created a calculated field called Seasons using an if-condition. This helped me to capture seasonality effect across months. 
+
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Monthly.JPG)
 
-In this visual, I created a calculated field for capturing the seasonality. We notice the same seasonality effect across months as follows:
+We notice the same seasonality effect across months as follows:
 * Increases from Winter to Spring
 * Increases from Spring to Summer
 * Decreases from Summer to Fall
 * Decreases from Fall to Winter
 
-This visual tells us the seasonal effect and the trend of violations on an average. This kind of goes with our intuitive thinking that people, on an average, spend more time outside during summer compared to other seasons and thus the chances of violations happening during summer is higher compared to other seasons, although the difference is not that huge across seasons.
+The seasonality effect seen here goes with our intuitive thinking that people, on an average, spend more time outside during summer compared to other seasons and thus the chances of violations happening during summer is higher compared to other seasons. Using this visual as a stand-alone, Mayor of Chicago could keep the same enforcement hours in summer as in other seasons. 
 
 * Finding 3:
 
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Camera.JPG)
 
-For finding 3, I explored camera id aspects for analysis. For this I calculated the **total** number of violations per unique camera and graphed it over time. I further added the seasonality effect to it. The number of violations captured in summer were quite high compared to other seasons. And winter had the least number of violations compared to other seasons. From data exploration, we know that the enforcement hours are limited to certain hours during the weekday and certain cameras operate only during school hours. Is the number of violations captured per camera in summer inflated due to technical glitch?
+I further incorporated camera id for further analysis of the data. I calculated the total number of violations per unique camera and graphed it over time with seasonal effects. The number of violations captured in summer were quite high compared to other seasons. And winter had the least number of violations compared to other seasons. From data exploration, we know that the enforcement hours are limited to certain hours during the weekday and certain cameras operate only during school hours. Does that mean that the number of violations captured per camera in summer are inflated due to technical glitch? 
 Thus with this visual, Mayor of Chicago could increase the technical checks of the cameras to make sure if the violations captured were indeed correct.
  
