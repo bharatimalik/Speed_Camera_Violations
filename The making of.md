@@ -42,12 +42,9 @@ In order to help Mayor of Chicago to make some informed decision based on the da
 
 * Finding 1: 
 
-From my data exploration phase we noticed a decreasing trend on the total number of violations per month. Also, June- September months were when the average number of violations were more! 
+From my data exploration phase we noticed a decreasing trend on the total number of violations per month. Also, June- September months were when the average number of violations were more! It gave me an overall picture of the total and average number of violations and did not take individual years or months or days into account. Thus, I graphed the same information at further granular level for better understanding.
 
-
-But this visual gives the overall picture of the total and average number of violations and does not take individual years or months or days into account. Thus, I graphed the same information at further granular level for better understanding.
-
-First, I took into account the violations per week. As we can see, we have a decreasing trend of average number of violations with high and low spikes of average number of violations. 
+First, I took into account the violations per week. As we can see below, we have a decreasing trend of average number of violations with high and low spikes of average number of violations. 
 
 Overall decrease in average number of violations would mean increased safety for the public of Chicago. But this would also mean a decrease in the revenue generated. As the revenue generated is further used for programs targetted for betterment of society, Mayor of Chicago could increase fines for overall revenue generation. 
 
