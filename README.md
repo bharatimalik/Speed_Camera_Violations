@@ -78,7 +78,11 @@ In order to help Mayor of Chicago to make some informed decision based on the da
 * I further incorporated camera id for further analysis of the data. I calculated the total number of violations per unique camera and graphed it over time with seasonal effects. The number of violations captured in summer were quite high compared to other seasons. And winter had the least number of violations compared to other seasons. 
 * From data exploration, we know that the enforcement hours are limited to certain hours during the weekday and certain cameras operate only during school hours. Does that mean that the number of violations captured per camera in summer are inflated due to technical glitch? 
 * Thus with this visual, Mayor of Chicago could increase the technical checks of the cameras to make sure if the violations captured were indeed correct.
- 
+
+## Conclusion
+
+*
+
 ## Road-map
 
 * Data exploration and first version has made me comfortable with Tableau. It also gave me an understanding about the topic at hand. For revised version, I could use more advanced and interactive features of Tableau to represent the same information. I may also be able to find any new insights using further data wrangling.
