@@ -4,7 +4,7 @@ This is individual project as part of MSIS 2626: Dashboard, Scorecard, and Visua
 
 There are 3 phases of this project:
 * Data Exploration: The objective is to develop five distinct visualizations using Tableau that provide an effective overview of the data.
-* First Version: The objective of this phase is to create a set of visualizations in an interesting, non-trivial, and somewhat unexpected
+* First Version: The objective of this phase is to create a 3 sets of visualizations in an interesting, non-trivial, and somewhat unexpected
 fashion intended for the Mayor of Chicago.
 * Final Version: The objective of this phase is to further improvise our first version.
 
@@ -39,9 +39,9 @@ Snapshot of the same is as follows:
 
 ## First Version
 
-In order to help Mayor of Chicago to make some informed decision based on the data, [here](https://public.tableau.com/profile/bharati.malik#!/vizhome/Individual_Project_Visuals_2/FindingsforMayorofChicago) is the first version of the analysis on Tableau Public. Snapshots of the same are also attached for each finding below:
+In order to help Mayor of Chicago to make some informed decision based on the data, [here](https://public.tableau.com/profile/bharati.malik#!/vizhome/Individual_Project_Visuals_2/FindingsforMayorofChicago) is the first version of the analysis on Tableau Public. Snapshots of the same are also attached for each visualization below:
 
-### Finding 1
+### Visualization 1
 
 * From my data exploration phase we noticed a decreasing trend on the total number of violations per month. Also, June- September months were when the average number of violations were more! It gave me an overall picture of the total and average number of violations and did not take individual years or months or days into account. Thus, I graphed the same information at further granular level for better understanding.
 * First, I took into account the violations per week. As we can see below, we have a decreasing trend of average number of violations with high and low spikes of average number of violations. 
@@ -56,7 +56,7 @@ In order to help Mayor of Chicago to make some informed decision based on the da
 
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Day.JPG)
 
-### Finding 2
+### Visualization 2
 
 * I then created a calculated field called Seasons using an if-condition. This helped me to capture seasonality effect across months. 
 
@@ -71,7 +71,7 @@ In order to help Mayor of Chicago to make some informed decision based on the da
 * The seasonality effect seen here goes with our intuitive thinking that people, on an average, spend more time outside during summer compared to other seasons and thus the chances of violations happening during summer is higher compared to other seasons. 
 * Thus with this visual, Mayor of Chicago could keep the same enforcement hours in summer as in other seasons. 
 
-### Finding 3
+### Visualization 3
 
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Camera.JPG)
 
