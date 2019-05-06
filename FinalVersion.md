@@ -108,8 +108,6 @@ Final version:
 * For the first version, I used color-coded bar charts (based on seasons) to present the information discussed above. 
 * For the final version, I chose to use the line charts which were color coded per season for better visualization. It will also be cost effective for anyone who wants to print the same. I also added caption details for the final version. As we have information for half-year of 2014 and 2019, I filtered the violation dates to remove missing value bias for the final version.
 
-[Here](https://public.tableau.com/profile/bharati.malik#!/vizhome/Individual_Project_Visuals_2/FindingsforMayorofChicago) is the final version of the analysis on Tableau Public. 
-
 ## Conclusion
 
 * Data exploration and first version has made me comfortable with Tableau. It also gave me an understanding about the topic at hand.
