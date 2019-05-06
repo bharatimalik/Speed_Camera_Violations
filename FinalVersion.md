@@ -50,6 +50,7 @@ In order to help Mayor of Chicago to make some informed decision based on the da
 * Overall decrease in average number of violations would mean increased safety for the public of Chicago. But this would also mean a decrease in the revenue generated. 
 * Thus, with this visual, Mayor of Chicago could propose to increase fines for overall revenue generation which in turn could be used for programs that enhance the safety of children. 
 
+First version:
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Week.JPG)
 
 * Second, I took into account per day violations across the years. For this I created a calculated field to extract day from violation date using [this](https://community.tableau.com/thread/147716) as a reference. 
