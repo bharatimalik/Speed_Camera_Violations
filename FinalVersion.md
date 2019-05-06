@@ -45,6 +45,8 @@ Snapshot of the same is as follows:
 
 [Here](https://public.tableau.com/profile/bharati.malik#!/vizhome/Individual_Project_Visuals_2/V2FindingsforMayorofChicago) is the final version of the visualizations.
 
+## First and Final version of three aspects for Mayor of Chicago
+
 ### Visualization 1
 
 * From data exploration phase, I noticed a decreasing trend on the total number of violations per month. Also, June- September months were when the average number of violations were more! It gave me an overall picture of the total and average number of violations but did not take individual years, months or days into account. Thus, I graphed the same information at further granular level at week level for better understanding.
@@ -116,6 +118,3 @@ Final version:
 * I also explored few other datasets such as [Crime dataset](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2), [Red light violations dataset](https://data.cityofchicago.org/Transportation/Red-Light-Camera-Violations/spqx-js37) and [Ward dataset](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Ward-Offices/htai-wnw4) to create new insights by merging it with original dataset. But later on it made me realize that I may end up losing some of the information from the original dataset based on the merging condition. 
 * Thus, I didn't merge any new datasets found online in order to keep the original data integrity intact.
 * Working for final version gave me an understanding on how the same information could be delivered using more simple yet effective visualizations.
-
-
-
