@@ -37,11 +37,11 @@ Five distinct visualizations using Tableau that provide an effective overview of
 Snapshot of the same is as follows: 
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Phase1.JPG)
 
-## First Version
+## Tableau Link
 
-In order to help Mayor of Chicago to make some informed decision based on the data, [here](https://public.tableau.com/profile/bharati.malik#!/vizhome/Individual_Project_Visuals_2/FindingsforMayorofChicago) is the first version of the analysis on Tableau Public. 
-
-## Final Version
+[Here](https://public.tableau.com/profile/bharati.malik#!/vizhome/Individual_Project_Visuals_2/V1FindingsforMayorofChicago) is the Tableau Public for both the versions. 
+First version is under the tab named: V1 Findings for Mayor of Chicago
+Final version is under the tab named: V2 Findings for Mayor of Chicago
 
 ### Visualization 1
 
