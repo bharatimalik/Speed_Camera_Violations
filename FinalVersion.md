@@ -113,6 +113,6 @@ Final version:
 
 ## Tableau Link
 
-[Here](https://public.tableau.com/profile/bharati.malik#!/vizhome/Individual_Project_Visuals_2/V1FindingsforMayorofChicago) is the Tableau Public for both the versions. 
+[Here](https://public.tableau.com/profile/bharati.malik#!/vizhome/Individual_Project_Visuals_2/V1FindingsforMayorofChicago) is the Tableau Public for both the versions. <br>
 First version is under the tab named: V1 Findings for Mayor of Chicago
 Final version is under the tab named: V2 Findings for Mayor of Chicago
