@@ -89,6 +89,9 @@ Comparison of first version and final version are as shown below:
 * The number of violations captured in summer were significantly high compared to other seasons. This means there is a decent possibility that the number of violations captured during summer were inflated.
 * Thus, with this visual, Mayor of Chicago could assign resources to make technical checks to identify any bad cameras over good ones.
 
+* For the first version, I used color-coded bar charts (based on seasons) to present the information discussed above. 
+* For the final version, I chose to use the color coded seasonal line-charts for better visualization. It will also be cost effective for anyone who wants to print the same. I also added caption details for the final version. As we have information for half-year of 2014 and 2019, I filtered the violation dates to remove missing value bias for the final version.
+
 Comparison of first version and final version are as shown below:
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Visual3Comp.JPG)
 
