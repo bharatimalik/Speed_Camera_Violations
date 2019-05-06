@@ -89,7 +89,7 @@ In order to help Mayor of Chicago to make some informed decision based on the da
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Visual3Comp.JPG)
 
 * For the first version (left image), I used color-coded bar charts (based on seasons) to present the information discussed above. 
-* For the final version (right image), I chose to use the color coded seasonal line-charts for better visualization. It will also be cost effective for anyone who wants to print the same. I also added caption details for the final version. As we have information for half-year of 2014 and 2019, I filtered the violation dates to remove missing value bias for the final version.
+* For the final version (right image), I chose to use the line charts which were color coded per season for better visualization. It will also be cost effective for anyone who wants to print the same. I also added caption details for the final version. As we have information for half-year of 2014 and 2019, I filtered the violation dates to remove missing value bias for the final version.
 
 [Here](https://public.tableau.com/profile/bharati.malik#!/vizhome/Individual_Project_Visuals_2/FindingsforMayorofChicago) is the final version of the analysis on Tableau Public. 
 
