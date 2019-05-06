@@ -45,7 +45,7 @@ Snapshot of the same is as follows:
 
 [Here](https://public.tableau.com/profile/bharati.malik#!/vizhome/Individual_Project_Visuals_2/FFindingsforMayorofChicago) is the final version of the analysis on Tableau Public.
 
-## First and Final version of three aspects for Mayor of Chicago
+## Three aspects for Mayor of Chicago
 
 ### Visualization 1
 
