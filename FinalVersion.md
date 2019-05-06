@@ -37,11 +37,7 @@ Five distinct visualizations using Tableau that provide an effective overview of
 Snapshot of the same is as follows: 
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Phase1.JPG)
 
-## Tableau Link
-
-[Here](https://public.tableau.com/profile/bharati.malik#!/vizhome/Individual_Project_Visuals_2/V1FindingsforMayorofChicago) is the Tableau Public for both the versions. 
-First version is under the tab named: V1 Findings for Mayor of Chicago
-Final version is under the tab named: V2 Findings for Mayor of Chicago
+## First and Final Version
 
 ### Visualization 1
 
@@ -52,7 +48,7 @@ Final version is under the tab named: V2 Findings for Mayor of Chicago
 First version:
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Week.JPG)
 
-Second version:
+Final version:
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/1.JPG)
 
 * For the first version, I took into account the violations per week. I noticed a decreasing trend on average number of violations with high and low spikes of average number of violations. However when graphed at a quarterly level, the graph looks more tidy and the message about downward trend is also delivered. 
@@ -115,4 +111,8 @@ Final version:
 * Thus, I didn't merge any new datasets found online in order to keep the original data integrity intact.
 * Working for final version gave me an understanding on how the same information could be delivered using more simple yet effective visualizations.
 
+## Tableau Link
 
+[Here](https://public.tableau.com/profile/bharati.malik#!/vizhome/Individual_Project_Visuals_2/V1FindingsforMayorofChicago) is the Tableau Public for both the versions. 
+First version is under the tab named: V1 Findings for Mayor of Chicago
+Final version is under the tab named: V2 Findings for Mayor of Chicago
