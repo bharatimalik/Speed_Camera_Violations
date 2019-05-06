@@ -63,7 +63,11 @@ Final version:
 * Thus for my final version (right image), I graphed the average violations at a quarter level. I also added caption details for the final version. As we have information for half-year of 2014 and 2019, I filtered the violation dates to remove missing value biasfor the final version. <br>
 
 
-* <br> Second, I also took into account per day violations across the years. For this I created a calculated field to extract day from violation date using [this](https://community.tableau.com/thread/147716) as a reference. 
+
+
+
+
+* Second, I also took into account per day violations across the years. For this I created a calculated field to extract day from violation date using [this](https://community.tableau.com/thread/147716) as a reference. 
 * We can see that the average violations happen over the weekend rather than weekday. We know that enforcement hours around parks are on all 7 days and such high number of violations captured over the weekend may mean that people are not aware about the enforcement hours near the park area during the weekend. 
 
 First version:
