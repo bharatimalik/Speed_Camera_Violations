@@ -39,11 +39,11 @@ Snapshot of the same is as follows:
 
 ## First Version
 
-[Here](https://public.tableau.com/profile/bharati.malik#!/vizhome/Individual_Project_Visuals_2/V1FindingsforMayorofChicago) is the first version of the analysis on Tableau Public.
+[Here](https://public.tableau.com/profile/bharati.malik#!/vizhome/Individual_Project_Visuals_2/FindingsforMayorofChicago) is the first version of the analysis on Tableau Public.
 
 ## Final Version
 
-[Here](https://public.tableau.com/profile/bharati.malik#!/vizhome/Individual_Project_Visuals_2/V2FindingsforMayorofChicago) is the final version of the analysis on Tableau Public.
+[Here](https://public.tableau.com/profile/bharati.malik#!/vizhome/Individual_Project_Visuals_2/F Findings for Mayor of Chicago) is the final version of the analysis on Tableau Public.
 
 ## First and Final version of three aspects for Mayor of Chicago
 
