@@ -56,8 +56,8 @@ Snapshot of the same is as follows:
 First version:
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Week.JPG)
 
-   * For the first version (shown above), I took into account the violations per week. I noticed a decreasing trend on average number of violations with high and low spikes of average number of violations. However when graphed at a quarterly level, the graph looks more tidy and the message about downward trend is also delivered. 
-   * Thus for the final version (shown below), I graphed the average violations at a quarter level. I also added caption details for the final version. As we have information for half-year of 2014 and 2019, I filtered the violation dates to remove missing value biasfor the final version.
+   1. For the first version (shown above), I took into account the violations per week. I noticed a decreasing trend on average number of violations with high and low spikes of average number of violations. However when graphed at a quarterly level, the graph looks more tidy and the message about downward trend is also delivered. 
+   2. Thus for the final version (shown below), I graphed the average violations at a quarter level. I also added caption details for the final version. As we have information for half-year of 2014 and 2019, I filtered the violation dates to remove missing value biasfor the final version.
  
 Final version:
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/1.JPG)
