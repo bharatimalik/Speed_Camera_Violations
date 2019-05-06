@@ -85,8 +85,6 @@ Comparison of first version and final version are as shown below:
 
 ### Visualization 3
 
-![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Camera.JPG)
-
 * To further analyze the question in visualization 2, I took camera id into picture for further analysis of the data. I then calculated the total number of violations per unique camera and graphed it over time with seasonal effects (also used in the previous visualization). 
 * The number of violations captured in summer were significantly high compared to other seasons. This means there is a decent possibility that the number of violations captured during summer were inflated.
 * Thus, with this visual, Mayor of Chicago could assign resources to make technical checks to identify any bad cameras over good ones.
@@ -100,9 +98,4 @@ Comparison of first version and final version are as shown below:
 * I also explored few other datasets such as [Crime dataset](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2), [Red light violations dataset](https://data.cityofchicago.org/Transportation/Red-Light-Camera-Violations/spqx-js37) and [Ward dataset](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Ward-Offices/htai-wnw4) to create new insights by merging it with original dataset. But later on it made me realize that I may end up losing some of the information from the original dataset based on the merging condition. 
 * Thus, I didn't merge any new datasets found online in order to keep the original data integrity intact.
 
-## Road-map
-
-* For revised version, I could combine the insights gained during exploration and first version together and use more advanced and interactive features of Tableau to represent the same information. 
-* I might also find new insights using further data wrangling. 
-* I could also utilize ward or zipcode information to see if something interesting comes up.
 
