@@ -92,6 +92,8 @@ Comparison of first version and final version are as shown below:
 Comparison of first version and final version are as shown below:
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Visual3Comp.JPG)
 
+[Here](https://public.tableau.com/profile/bharati.malik#!/vizhome/Individual_Project_Visuals_2/FindingsforMayorofChicago) is the final version of the analysis on Tableau Public. 
+
 ## Conclusion
 
 * Data exploration and first version has made me comfortable with Tableau. It also gave me an understanding about the topic at hand.
