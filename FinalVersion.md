@@ -49,21 +49,21 @@ In order to help Mayor of Chicago to make some informed decision based on the da
 * Overall decrease in average number of violations would mean increased safety for the public of Chicago. But this would also mean a decrease in the revenue generated. 
 * Thus, with this visual, Mayor of Chicago could propose to increase fines for overall revenue generation which in turn could be used for programs that enhance the safety of children. 
 
-* For the first version, I took into account the violations per week. I noticed a decreasing trend on average number of violations with high and low spikes of average number of violations. However when graphed at a quarterly level, the graph looks more tidy and the message about downward trend is also delivered. 
-* Thus for my final version, I graphed the average violations at a quarter level. I also added caption details for the final version. As we have information for half-year of 2014 and 2019, I filtered the violation dates to remove missing value biasfor the final version.
-
 Comparison of first version and final version are as shown below:
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Visual1Comp1.JPG)
 
-* Second, I took into account per day violations across the years. For this I created a calculated field to extract day from violation date using [this](https://community.tableau.com/thread/147716) as a reference. 
+* For the first version, I took into account the violations per week. I noticed a decreasing trend on average number of violations with high and low spikes of average number of violations. However when graphed at a quarterly level, the graph looks more tidy and the message about downward trend is also delivered. 
+* Thus for my final version, I graphed the average violations at a quarter level. I also added caption details for the final version. As we have information for half-year of 2014 and 2019, I filtered the violation dates to remove missing value biasfor the final version.
+
+* Second, I also took into account per day violations across the years. For this I created a calculated field to extract day from violation date using [this](https://community.tableau.com/thread/147716) as a reference. 
 * We can see that the average violations happen over the weekend rather than weekday. We know that enforcement hours around parks are on all 7 days and such high number of violations captured over the weekend may mean that people are not aware about the enforcement hours near the park area during the weekend. 
+
+Comparison of first version and final version are as shown below:
+![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Visual1Comp2.JPG)
 
 * For the first version, I used a bar chart to display the day-trend of average violations across years.
 * For the final version, I chose to display the same information in the form of line chart as it not only delivers the same information but also will be cost effective if someone decides to print the same. I also added caption details for the final version. As we have information for half-year of 2014 and 2019, I filtered the violation dates to remove missing value bias for the final version. 
 * Thus, with this visual, Mayor of Chicago could invest in resources to raise more awareness about the the program. 
-
-Comparison of first version and final version are as shown below:
-![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Visual1Comp2.JPG)
 
 ### Visualization 2
 
@@ -77,11 +77,11 @@ Comparison of first version and final version are as shown below:
 * The seasonality effect seen here goes with our intuitive thinking that people, on an average, spend more time outside (in the park) during summer compared to other seasons and thus the chances of violations happening during summer is higher compared to other seasons although there is not much of a significant difference on the average number of violations across adjacent seasons.
 * From our data exploration, we also know that the enforcement hours are limited to certain hours during the weekday and only park cameras work during summer. If people are well aware of this fact, then does that mean there is a possibility that the number of violations captured in summer are inflated due to some technical glitch in the camera?
 
-* For the first version, I used color-coded bar charts (based on seasons) to present the information discussed above. However it is always better to try to deliver the same information in a simpler and concise manner.
-* Thus, for the final version, I chose to use the circle view which delivers the exact same information as the first version and in an effective way. It will also be cost effective for anyone who wants to print the same. As this visual is to communicate the seasonal trend across the years, we can keep both 2014 and 2019 data point. I also added caption details for the final version.
-
 Comparison of first version and final version are as shown below:
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Visual2Comp.JPG)
+
+* For the first version, I used color-coded bar charts (based on seasons) to present the information discussed above. However it is always better to try to deliver the same information in a simpler and concise manner.
+* Thus, for the final version, I chose to use the circle view which delivers the exact same information as the first version and in an effective way. It will also be cost effective for anyone who wants to print the same. As this visual is to communicate the seasonal trend across the years, we can keep both 2014 and 2019 data point. I also added caption details for the final version.
 
 ### Visualization 3
 
@@ -89,11 +89,11 @@ Comparison of first version and final version are as shown below:
 * The number of violations captured in summer were significantly high compared to other seasons. This means there is a decent possibility that the number of violations captured during summer were inflated.
 * Thus, with this visual, Mayor of Chicago could assign resources to make technical checks to identify any bad cameras over good ones.
 
-* For the first version, I used color-coded bar charts (based on seasons) to present the information discussed above. 
-* For the final version, I chose to use the color coded seasonal line-charts for better visualization. It will also be cost effective for anyone who wants to print the same. I also added caption details for the final version. As we have information for half-year of 2014 and 2019, I filtered the violation dates to remove missing value bias for the final version.
-
 Comparison of first version and final version are as shown below:
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Visual3Comp.JPG)
+
+* For the first version, I used color-coded bar charts (based on seasons) to present the information discussed above. 
+* For the final version, I chose to use the color coded seasonal line-charts for better visualization. It will also be cost effective for anyone who wants to print the same. I also added caption details for the final version. As we have information for half-year of 2014 and 2019, I filtered the violation dates to remove missing value bias for the final version.
 
 [Here](https://public.tableau.com/profile/bharati.malik#!/vizhome/Individual_Project_Visuals_2/FindingsforMayorofChicago) is the final version of the analysis on Tableau Public. 
 
