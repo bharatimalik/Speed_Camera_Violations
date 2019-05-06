@@ -56,8 +56,8 @@ Snapshot of the same is as follows:
 First version:
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Week.JPG)
 
- * For the first version, I took into account the violations per week. I noticed a decreasing trend on average number of violations with high and low spikes of average number of violations. However when graphed at a quarterly level, the graph looks more tidy and the message about downward trend is also delivered. 
- * Thus for my final version (right image), I graphed the average violations at a quarter level. I also added caption details for the final version. As we have information for half-year of 2014 and 2019, I filtered the violation dates to remove missing value biasfor the final version.
+ * For the first version (shown above), I took into account the violations per week. I noticed a decreasing trend on average number of violations with high and low spikes of average number of violations. However when graphed at a quarterly level, the graph looks more tidy and the message about downward trend is also delivered. 
+ * Thus for my final version (shown below), I graphed the average violations at a quarter level. I also added caption details for the final version. As we have information for half-year of 2014 and 2019, I filtered the violation dates to remove missing value biasfor the final version.
  
 Final version:
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/1.JPG)
@@ -68,12 +68,12 @@ Final version:
 First version:
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Day.JPG)
 
+* For the first version (shown above), I used a bar chart to display the day-trend of average violations across years.
+* For the final version (shown below), I chose to display the same information in the form of line chart as it not only delivers the same information but also will be cost effective if someone decides to print the same. I also added caption details for the final version. As we have information for half-year of 2014 and 2019, I filtered the violation dates to remove missing value bias for the final version. 
+* Thus, with this visual, Mayor of Chicago could invest in resources to raise more awareness about the the program. 
+
 Final version:
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/2.JPG)
-
-* For the first version, I used a bar chart to display the day-trend of average violations across years.
-* For the final version, I chose to display the same information in the form of line chart as it not only delivers the same information but also will be cost effective if someone decides to print the same. I also added caption details for the final version. As we have information for half-year of 2014 and 2019, I filtered the violation dates to remove missing value bias for the final version. 
-* Thus, with this visual, Mayor of Chicago could invest in resources to raise more awareness about the the program. 
 
 ### Visualization 2
 
@@ -90,11 +90,11 @@ Final version:
 First version:
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Monthly.JPG)
 
+* For the first version (shown above), I used color-coded bar charts (based on seasons) to present the information discussed above. However it is always better to try to deliver the same information in a simpler and concise manner.
+* Thus, for the final version (shown below), I chose to use the circle view which delivers the exact same information as the first version and in an effective way. It will also be cost effective for anyone who wants to print the same. As this visual is to communicate the seasonal trend across the years, we can keep both 2014 and 2019 data point. I also added caption details for the final version.
+
 Final version:
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/3.JPG)
-
-* For the first version, I used color-coded bar charts (based on seasons) to present the information discussed above. However it is always better to try to deliver the same information in a simpler and concise manner.
-* Thus, for the final version, I chose to use the circle view which delivers the exact same information as the first version and in an effective way. It will also be cost effective for anyone who wants to print the same. As this visual is to communicate the seasonal trend across the years, we can keep both 2014 and 2019 data point. I also added caption details for the final version.
 
 ### Visualization 3
 
@@ -105,11 +105,11 @@ Final version:
 First version:
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Camera.JPG)
 
+* For the first version (shown above), I used color-coded bar charts (based on seasons) to present the information discussed above. 
+* For the final version (shown below), I chose to use the line charts which were color coded per season for better visualization. It will also be cost effective for anyone who wants to print the same. I also added caption details for the final version. As we have information for half-year of 2014 and 2019, I filtered the violation dates to remove missing value bias for the final version.
+
 Final version:
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/4.JPG)
-
-* For the first version, I used color-coded bar charts (based on seasons) to present the information discussed above. 
-* For the final version, I chose to use the line charts which were color coded per season for better visualization. It will also be cost effective for anyone who wants to print the same. I also added caption details for the final version. As we have information for half-year of 2014 and 2019, I filtered the violation dates to remove missing value bias for the final version.
 
 ## Conclusion
 
