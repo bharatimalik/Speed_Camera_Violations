@@ -103,7 +103,6 @@ First version:
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Camera.JPG)
 
 Final version:
-
 ![Image](https://github.com/bharatimalik/Speed_Camera_Violations/blob/master/Camera.JPG)
 
 * For the first version, I used color-coded bar charts (based on seasons) to present the information discussed above. 
